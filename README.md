@@ -1,11 +1,11 @@
 # 💫About Me :
 🔧 I’m currently working on ASIC based Fully Automated SOC <br/>
 
-🤖 Exploring VLSI <br/>
+💡 Exploring VLSI <br/>
 🙇🏻‍♂️ I’m currently learning more on Network Computing, Blockchain as well as RISC V architecture <br/>
 📞 How to reach me : Mail at Anshul.Madurwar@iiitb.ac.in <br/>
 🙆🏻‍♂️ Pronouns : He/His <br/>
-👀 Fun Fact : I love HotWheels! <br/> 
+🚙 Fun Fact : I love HotWheels and Die Cast Racing! <br/> 
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anshul_2646/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshul-madurwar-19199b216/) 
